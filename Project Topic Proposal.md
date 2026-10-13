@@ -2,6 +2,7 @@ Joshua Choi
 10/13/2026  
 Eco Evo 282  
 Dr. Emerson  
+
 **Project Topic Proposal**  
 **Introduction**  
 Transposable elements (TEs) are typically considered to be “junk” and “selfish” DNA that moves throughout the genome by using mechanisms that allow them to “copy” or “cut” and then “paste” themselves without necessarily benefiting the host organism (Mérel et al. 2020). During mobilization, TEs can introduce new cis-regulatory elements (CREs) that can affect gene expression (Bourque et al. 2018). Further, epigenetic factors such as DNA methylation, histone modifications, and chromatin accessibility affect CREs by modulating how readily the cell’s transcriptional machinery can bind to them (Preissl et al. 2023). A genomic metric that informs about expression level is chromatin accessibility, which allows estimating the extent to which specific physical areas of chromatin are accessible to the transcriptional machinery. Although TEs can drive epigenetic modifications affecting CRE activity, how these TEs affect neighbouring genes remains poorly understood (He et al. 2021).
