@@ -1,7 +1,7 @@
 Joshua Choi  
 10/13/2026  
 Eco Evo 282  
-Dr. Emerson  
+Dr. Emerson 
 
 **Project Topic Proposal**  
 **Introduction**  
