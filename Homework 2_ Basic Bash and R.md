@@ -11,18 +11,18 @@ A student is currently in the directory /User/Downloads/dir1. Can you write a Ba
 User  
 |- Applications  
 |- Downloads  
-|&emsp;|- file1  
-|&emsp;|- file2  
-|&emsp;|- dir1  
-|&emsp;&emsp;|- dir2  
+|    |- file1  
+|    |- file2  
+|    |- dir1  
+|        |- dir2  
 |- Movies  
 |- Music  
 |- Pictures  
 |- Desktop  
- &emsp;|- file3  
- &emsp;|- dir3  
- &emsp;&emsp;|- file4  
- &emsp;&emsp;|- file5
+    |- file3  
+    |- dir3  
+        |- file4  
+        |- file5
 ````
 ### **Answer 1:**   
 ````
@@ -70,18 +70,18 @@ A student needs to share access to a directory and file with a peer who is also 
 User  
 |- Applications  
 |- Downloads  
-|&emsp;|- file1  
-|&emsp;|- file2  
-|&emsp;|- dir1  
-|&emsp;&emsp;|- dir2  
+|    |- file1  
+|    |- file2  
+|    |- dir1  
+|        |- dir2  
 |- Movies  
 |- Music  
 |- Pictures  
 |- Desktop  
- &emsp;|- file3  
- &emsp;|- dir3  
- &emsp;&emsp;|- file4  
- &emsp;&emsp;|- file5
+    |- file3  
+    |- dir3  
+        |- file4  
+        |- file5
 ````
 ### **Answer 3:** 
 ````
