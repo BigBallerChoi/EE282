@@ -28,7 +28,7 @@ To visualize my data, I plan to initially annotate the clusters created by dimen
 Although the analysis that I am proposing utilizes multiple pipelines and creates multiple visualizations, my lab has sufficient resources on HPC3 to conduct the initial downloading and aligning of my data. Already, I have completed these steps anticipating for my final project in order to save me time that could be spent on processes and visualizing the data. Furthermore, if I have any trouble during these next steps, I have single-cell expertise from my lab who can support me and answer any questions that I may have. Overall, because of the time that I had already saved and with sufficient resources from my lab, I believe that completing this project within the scope of this class is very feasible.
 
 ## Conclusion
-In conclusion, based on the major themes present in this class, I plan on utilizing new skills 
+In conclusion, based on the major themes related to bioinformatics, I plan on utilizing new Linux and R skills that I learned in this class. With the ability to continue exploring 
 
 ## References
 Bourque G, Burns KH, Gehring M, Gorbunova V, Seluanov A, Hammell M, Imbeault M, Izsvák Z, Levin HL, Macfarlan TS, Mager DL, Feschotte C. 2018\. Ten things you should know about transposable elements. Genome Biol 19: 199\.
