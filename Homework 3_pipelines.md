@@ -10,9 +10,11 @@ Dr. Emerson
 
 Downloaded the all-chromosome file from FlyBase
 ```
+srun -A ecoevo282_class --pty  bash -i
+
 wget https://s3ftp.flybase.org/genomes/Drosophila_melanogaster/dmel_r6.66_FB2025_05/fasta/dmel-all-chromosome-r6.66.fasta.gz
 ```
-Checked the validity of the file using a checksum and saw that the hexadecimal codes were the same
+Checked the validity of the file using a checksum and saw that the hexadecimal codes were the same (ccb86e94117eb4eeaaf70efb6be1b6b9)
 ```
 wget https://s3ftp.flybase.org/genomes/Drosophila_melanogaster/dmel_r6.66_FB2025_05/fasta/md5sum.txt
 
@@ -22,14 +24,11 @@ diff md5{sum,check}.txt
 ```
 2. Summarize Genome:  
 
-Analyzed the total number of nucleotides
+Analyzed the total number of nucleotides (143726002 bases), Ns (1152978 N's), and sequences (1870 sequences)
 ```
-```
-Analyzed the total number of Ns
-```
-```
-Analyzed the total number of sequences
-```
+mamba activate ee282
+
+faSize dmel-all-chromosome-r6.66.fasta.gz
 ```
 
 ## Summarize an Annotation File
