@@ -53,6 +53,8 @@ diff md5{sum,check}.txt
    
 Analyzed the total number of features of each type, sorted from the most common to the least common
 ```
+mamba activate ee282
+
 bioawk -c gff '{print $feature}' dmel-all-r6.66.gtf.gz | sort -k1,1 | uniq -c | sort -k1,1nr
 
  190176 exon
